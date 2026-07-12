@@ -127,6 +127,3 @@ The frontend runs on `http://localhost:3000` and proxies API requests to the bac
 - Mother Total + Father Total = Grand Total (100.000)
 - Seeded random ensures same DOB always produces same results
 
-## License
-
-MIT
